@@ -193,7 +193,7 @@ def Spam():
 	os.system('clear')
 	print(C+'Subscribe YT'+W+' Gua Dlu Su !'+C+' :V')
 	sleep(1.5)
-	os.system('xdg-open https://www.youtube.com/channel/UCzsADl8XRJeZXJ6CKZLX5KQ')
+	os.system('xdg-open https://www.youtube.com/channel/UCm6GW7GFlQCl7T988qcfSXA')
 	os.system('clear')
 	sleep(1.3)
 	Banner()
